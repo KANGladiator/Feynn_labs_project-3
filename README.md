@@ -1,31 +1,27 @@
-## This project is maintained by Deepak Singh
+# Project on Machine Performance Monitoring
+### - by Kanishk Singh
 
-# Machine Health Monitoring
+## Introduction
 
-## Overview
+This project aims to oversee machine performance by employing various methods in machine learning. The goal is to scrutinize sensor data from machines, detect irregularities, and provide insights into their overall condition and effectiveness.
 
-This Jupyter Notebook project focuses on monitoring the health of machines using various machine learning techniques. The project aims to analyze sensor data from machines, detect anomalies, and provide insights into the overall health of the machines.
+## Key Elements
 
-## Features
 
-- **Data Exploration:** Explore and visualize the sensor data to gain insights into the machine's behavior and patterns.
+- Exploration of Data: Investigate and visualize sensor data to understand machine behavior and patterns.
 
-- **Data Preprocessing:** Clean and preprocess the data to ensure it is suitable for machine learning model training.
+- Data Preparation: Refine and preprocess data to prepare it for machine learning model training.
 
-- **Machine Learning Models:** Implement and train machine learning models for anomaly detection, predicting machine failures, and assessing overall health.
+- Machine Learning Techniques: Construct and train models for anomaly detection, prediction of machine failures, and assessment of overall performance.
 
-## Usage
 
-1. Open the Jupyter Notebook using the steps mentioned in the Installation section.
+## Instructions
 
-2. Run each cell in the notebook sequentially.
+1. Launch the Jupyter Notebook following the setup instructions provided in the Installation section.
 
-3. Follow the comments and documentation within the notebook to understand each step and make necessary adjustments.
+2. Execute each code cell in the notebook sequentially.
 
-4. Analyze the results and visualizations to interpret the machine health status.
+3. Utilize comments and documentation within the notebook to comprehend each step and make necessary adjustments.
 
-## Contributing
+4. Analyze the results and visual representations to interpret the machine's performance status.
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
-
-## Thank You!
